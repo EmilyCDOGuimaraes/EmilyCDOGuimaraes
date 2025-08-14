@@ -2,7 +2,46 @@
 <!DOCTYPE html>
 <html lang="en">
  <body>
-  <h1>Hello World!</h1>
+   <h1 align="center">Hi, I'm Emily 👋</h1>
+
+   <p align="center">
+     <strong>Creative communicator turned full-stack dev-in-progress</strong><br>
+     Blending code, storytelling, and intuitive design<br>
+     Based in Canada · Learning in public · Building weird little tools
+   </p>
+   
+   <hr>
+   
+   <h3>🚧 What I’m Working On</h3>
+   <ul>
+     <li>🌐 Learning <strong>HTML, CSS, JavaScript</strong> and <strong>Python</strong></li>
+     <li>📊 Building a <em>biweekly budget tracker</em> designed for anxious, overwhelmed users</li>
+     <li>🎙️ Prototyping ways to blend <em>music, storytelling, and tech</em> (possibly via a podcast microsite)</li>
+   </ul>
+   
+   <h3>🎯 What’s Next</h3>
+   <ul>
+     <li>UX experiments and wireframes</li>
+     <li>Data dashboards that feel playful and human</li>
+     <li>Creative coding projects with a soul</li>
+   </ul>
+   
+   <details>
+     <summary>✨ A few things I care about (click to expand)</summary>
+     <br>
+     <ul>
+       <li>Design that doesn’t overwhelm</li>
+       <li>Tools that help people feel seen, not just “optimized”</li>
+       <li>Using code to tell better, more honest stories</li>
+     </ul>
+   </details>
+   
+   <hr>
+   
+   <p>
+     📬 <strong>Let’s connect:</strong> Always open to co-learning, idea-swapping, or just chatting about creative dev paths.<br>
+     → <em>Want to collaborate or just say hi?</em> You can reach me on <a href="https://www.linkedin.com/">LinkedIn</a> or check out my <a href="https://yourportfolio.com">portfolio</a>.
+   </p>
  </body>
 </html>
 
