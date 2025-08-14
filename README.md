@@ -28,7 +28,6 @@
    
    <details>
      <summary>✨ A few things I care about (click to expand)</summary>
-     <br>
      <ul>
        <li>Design that doesn’t overwhelm</li>
        <li>Tools that help people feel seen, not just “optimized”</li>
@@ -40,7 +39,7 @@
    
    <p>
      📬 <strong>Let’s connect:</strong> Always open to co-learning, idea-swapping, or just chatting about creative dev paths.<br>
-     → <em>Want to collaborate or just say hi?</em> You can reach me on <a href="https://www.linkedin.com/">LinkedIn</a> or check out my <a href="https://yourportfolio.com">portfolio</a>.
+     → <em>Want to collaborate or just say hi?</em> You can reach me below.
    </p>
  </body>
 </html>
