@@ -52,11 +52,12 @@
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Emily-Wp" height="40" width="40" src="https://github.com/user-attachments/assets/048f2ede-0982-4052-857d-609feb759ee2">
-<img align="center" alt="Emily-uiux" height="40" width="40" alt="image" src="https://github.com/user-attachments/assets/eba37107-8f4a-4af4-b098-4e2f0de77355" />
+<img align="center" alt="Emily-uiux" height="37" width="37" alt="image" src="https://github.com/user-attachments/assets/eba37107-8f4a-4af4-b098-4e2f0de77355">
 <img align="center" alt="Emily-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Emily-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Emily-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Emily-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Emily-ai" height="37" width="37" src="https://github.com/user-attachments/assets/0f5d0058-b37d-474a-a509-a80a9388e6b8">
 </div>
 
 
