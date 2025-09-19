@@ -51,7 +51,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Emily-Wp" height="40" width="40" src="https://github.com/user-attachments/assets/048f2ede-0982-4052-857d-609feb759ee2">
+<img align="center" alt="Emily-Wp" height="40" width="40" src="[https://github.com/user-attachments/assets/048f2ede-0982-4052-857d-609feb759ee2](https://icongr.am/devicon/wordpress-original.svg?size=128&color=currentColor
+
+)">
 <img align="center" alt="Emily-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Emily-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Emily-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
